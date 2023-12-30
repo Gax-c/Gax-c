@@ -2,7 +2,7 @@
 
 ### This is Gax!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gax-c)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zichen-xie-30845929b/)[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gax-c)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zichen-xie-30845929b/)[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zichenxie0106@gmail.com)
 
 #### About me 
 
@@ -29,3 +29,4 @@
 - Software engineering. 
 
 ![Gax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gax-c&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gax-c&layout=compact&theme=tokyonight)
+
