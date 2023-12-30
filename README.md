@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**Gax-c/Gax-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### This is Gax!
 
-Here are some ideas to get you started:
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Gax-c)[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zichen-xie-30845929b/)[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About me 
+
+- 🔭 An undergraduate student in [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Information Security. 
+- 📖 Minor in ACEE(Advanced Honor Class of Engineering Education) at ChuKochen Honors College.
+- 👯 An adventurer, looking for excitement in life. 
+- 📫 My blog: [Gax's blog](https://gax-c.github.io/)
+- 💬 Ask me about anything! Feel free to contact me at any time! 😄
+
+
+
+#### 🌱 Things I am currently working on: 
+
+- Finish my Bachelor Degree in Information security. 
+- Taking some exercise from [LeetCode](https://leetcode.com/). 
+- Actively looking for summer intern in big tech companies🚀. 
+- Doing some research related to software security. 
+
+
+
+#### Interest
+
+- Various kinds of AI technologies. 
+- Software engineering. 
+
+![Gax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gax-c&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gax-c&layout=compact&theme=tokyonight)
