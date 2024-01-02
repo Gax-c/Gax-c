@@ -25,8 +25,8 @@
 
 #### Interest
 
-- Various kinds of AI technologies. 
 - Software engineering. 
+- Various kinds of AI technologies. 
 
 ![Gax's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gax-c&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gax-c&layout=compact&theme=tokyonight)
 
