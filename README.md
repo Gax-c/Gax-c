@@ -16,7 +16,7 @@
 
 #### 🌱 Things I am currently working on: 
 
-- Finish my Bachelor Degree in Information security. 
+- Finish my Bachelor Degree in Information Security. 
 - Taking some exercise from [LeetCode](https://leetcode.com/). 
 - Actively looking for summer intern in big tech companies🚀. 
 - Doing some research related to software security. 
