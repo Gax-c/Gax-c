@@ -18,8 +18,8 @@
 
 - Finish my Bachelor Degree in Information Security. 
 - Taking some exercise from [LeetCode](https://leetcode.com/). 
-- Actively looking for summer intern in big tech companies🚀. 
-- Doing some research related to software security. 
+- Actively looking for summer research intern🚀. 
+- Doing some research related to software engineering & software security. 
 
 
 
