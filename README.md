@@ -17,9 +17,9 @@
 #### 🌱 Things I am currently working on: 
 
 - Finish my Bachelor Degree in Information Security. 
-- Taking some exercise from [LeetCode](https://leetcode.com/). 
-- Actively looking for summer research intern🚀. 
-- Doing some research related to software engineering & software security. 
+- Doing some research related to software engineering & software security🚀.
+  - Working with [Chenyuan](https://yangchenyuan.github.io/) and [Zijie](https://zzjas.com/). 
+  - Working with [Yifan](https://anderson-xia.github.io/). 
 
 
 
