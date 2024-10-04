@@ -18,15 +18,15 @@
 
 - Finish my Bachelor Degree in Information Security. 
 - Doing some research related to software engineering & software security🚀.
-  - Working with [Chenyuan](https://yangchenyuan.github.io/) and [Zijie](https://zzjas.com/), adviced by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu/). 
-  - Working with [Yifan](https://anderson-xia.github.io/), adviced by [Prof. Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ&hl=en&oi=ao).
+  - Working with [Chenyuan](https://yangchenyuan.github.io/) and [Zijie](https://zzjas.com/), advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu/). 
+  - Working with [Yifan](https://anderson-xia.github.io/), advised by [Prof. Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ&hl=en&oi=ao).
 - Applying for PHD 25Fall!!!
 
 
 
 #### Interest
 
-- Software engineering. 
+- Software engineering & Software Security. 
 - Various kinds of AI technologies. 
 
 
