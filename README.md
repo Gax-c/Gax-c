@@ -9,7 +9,7 @@
 - 🔭 An undergraduate student in [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Information Security. 
 - 📖 Minor in ACEE(Advanced Honor Class of Engineering Education) at ChuKochen Honors College.
 - 👯 An adventurer, looking for excitement in life. 
-- 📫 My blog: [Gax's blog](https://gax-c.github.io/blog)
+- 📫 My Homepage: [Homepage](https://gax-c.github.io/).
 - 💬 Ask me about anything! Feel free to contact me at any time! 😄
 
 
