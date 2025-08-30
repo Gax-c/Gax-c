@@ -6,23 +6,15 @@
 
 #### About me 
 
-- 🔭 An undergraduate student in [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Information Security. 
-- 📖 Minor in ACEE(Advanced Honor Class of Engineering Education) at ChuKochen Honors College.
+- 📖 A first year CS PhD student at [UVA](https://engineering.virginia.edu/department/computer-science).
 - 👯 An adventurer, looking for excitement in life. 
 - 📫 My Homepage: [Homepage](https://gax-c.github.io/).
 - 💬 Ask me about anything! Feel free to contact me at any time! 😄
 
-
-
 #### 🌱 Things I am currently working on: 
 
-- Finish my Bachelor Degree in Information Security. 
-- Doing some research related to software engineering & software security🚀.
-  - Working with [Chenyuan](https://yangchenyuan.github.io/) and [Zijie](https://zzjas.com/), advised by [Prof. Lingming Zhang](https://lingming.cs.illinois.edu/). 
-  - Working with [Yifan](https://anderson-xia.github.io/), advised by [Prof. Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ&hl=en&oi=ao).
-- Applying for PhD 25 Fall!!!
-
-
+- Paper, Paper!
+- Please let me graduate ~
 
 #### Interest
 
