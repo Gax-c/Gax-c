@@ -6,7 +6,7 @@
 
 #### About me 
 
-- 📖 A first year CS PhD student at [UVA](https://engineering.virginia.edu/department/computer-science).
+- 📖 A second year CS PhD student at [UVA](https://engineering.virginia.edu/department/computer-science).
 - 👯 An adventurer, looking for excitement in life. 
 - 📫 My Homepage: [Homepage](https://gax-c.github.io/).
 - 💬 Ask me about anything! Feel free to contact me at any time! 😄
@@ -18,6 +18,7 @@
 
 #### Interest
 
+- Verifiable code generation.
 - Software engineering & Software Security. 
 - Various kinds of AI technologies. 
 
